@@ -1,44 +1,46 @@
-[
-  {
-    "username": "hudan",
-    "title": "tutorial 1",
-    "content": "ini tutorial 1",
-    "date": "today",
-    "id": 1
-  },
-  {
-    "id": 2,
-    "username": "reni",
-    "title": "tutorial 2",
-    "content": "ini adalah tutorial 2",
-    "date": "06 juli 2020"
-  },
-  {
-    "id": 3,
-    "username": "ibrahim",
-    "title": "tutorial 3",
-    "content": "ini adalah tutorial 3",
-    "date": "06 juli 2020"
-  },
-  {
-    "id": 4,
-    "username": "musa",
-    "title": "tutorial 4",
-    "content": "ini adalah tutorial 4",
-    "date": "06 juli 2020"
-  },
-  {
-    "username": "dadi",
-    "title": "tulisan 1",
-    "content": "menambahkan tulisan 1",
-    "date": "today",
-    "id": 5
-  },
-  {
-    "username": "ibrahim",
-    "title": "update database",
-    "content": "update database 1",
-    "date": "today",
-    "id": 6
-  }
-]
+{
+  "userdata": [
+      {
+        "username": "hudan",
+        "title": "tutorial 1",
+        "content": "ini tutorial 1",
+        "date": "today",
+        "id": 1
+      },
+      {
+        "id": 2,
+        "username": "reni",
+        "title": "tutorial 2",
+        "content": "ini adalah tutorial 2",
+        "date": "06 juli 2020"
+      },
+      {
+        "id": 3,
+        "username": "ibrahim",
+        "title": "tutorial 3",
+        "content": "ini adalah tutorial 3",
+        "date": "06 juli 2020"
+      },
+      {
+        "id": 4,
+        "username": "musa",
+        "title": "tutorial 4",
+        "content": "ini adalah tutorial 4",
+        "date": "06 juli 2020"
+      },
+      {
+        "username": "dadi",
+        "title": "tulisan 1",
+        "content": "menambahkan tulisan 1",
+        "date": "today",
+        "id": 5
+      },
+      {
+        "username": "ibrahim",
+        "title": "update database",
+        "content": "update database 1",
+        "date": "today",
+        "id": 6
+      }
+    ]
+}
